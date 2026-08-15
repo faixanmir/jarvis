@@ -23,3 +23,5 @@ cd frontend && npm run dev
 
 # 8. Open Chrome
 open http://localhost:5173
+git clone https://github.com/ethanplusai/jarvis.git
+cd jarvis
